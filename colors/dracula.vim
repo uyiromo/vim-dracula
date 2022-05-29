@@ -1,3 +1,4 @@
+scriptencoding utf8
 " Dracula Theme: {{{
 "
 " https://github.com/zenorocha/dracula-theme
@@ -11,7 +12,6 @@
 " @author Éverton Ribeiro <nuxlli@gmail.com>
 " @author Derek Sifford <dereksifford@gmail.com>
 " @author Zeno Rocha <hi@zenorocha.com>
-scriptencoding utf8
 " }}}
 
 " Configuration: {{{
@@ -298,7 +298,7 @@ hi! link SpellLocal DraculaWarnLine
 hi! link SpellCap DraculaInfoLine
 hi! link SpellRare DraculaInfoLine
 
-hi! link Constant DraculaPurple
+hi! link Constant DraculaYellow
 hi! link String DraculaYellow
 hi! link Character DraculaPink
 hi! link Number Constant
